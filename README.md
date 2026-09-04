@@ -22,4 +22,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - `seasonal_agriculture_performance_dataset.csv` — dataset
 
 ## Author
-[Your Name] — [Your College Name]
+Aman Barbate. Guru Nanak Institute of Engineering & Technology Nagpur 
